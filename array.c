@@ -17,5 +17,5 @@ void  main()
 }
 output
 enter the limit5
-enter the element01 2 3 4 5
+enter the element1 2 3 4 5
 the array is12345

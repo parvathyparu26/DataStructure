@@ -252,5 +252,47 @@ SINGLY LINKED LIST
 7.search
 8.Display
 9.Exit
+ Enter a choice:1
+
+ Enter the element to be inserted:4
+
+ 4 inserted into the list:
+
+1.insertfirst
+2.insertlast
+3.insertlocation
+4.deletefirst
+5.deletelast
+6.deletealocation
+7.search
+8.Display
+9.Exit
  Enter a choice:2
-proot info: vpid 1: terminated with signal 11
+
+ Enter the element to be inserted:9
+
+9 inserted
+
+1.insertfirst
+2.insertlast
+3.insertlocation
+4.deletefirst
+5.deletelast
+6.deletealocation
+7.search
+8.Display
+9.Exit
+ Enter a choice:8
+
+ Elements in linked list are:	4	9
+
+1.insertfirst
+2.insertlast
+3.insertlocation
+4.deletefirst
+5.deletelast
+6.deletealocation
+7.search
+8.Display
+9.Exit
+

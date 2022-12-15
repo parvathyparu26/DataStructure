@@ -242,3 +242,58 @@ int main(){
 
   return 0;
 }
+output
+Choose:
+1. Insert head
+2. Insert end
+3. Insert at particular position
+4. Delete head
+5. Delete end
+6. Delete from particular position
+7. Display Forward
+8. Display Reverse
+9. Search
+10. End 
+::1
+Enter the data you need to store: 5
+
+Choose:
+1. Insert head
+2. Insert end
+3. Insert at particular position
+4. Delete head
+5. Delete end
+6. Delete from particular position
+7. Display Forward
+8. Display Reverse
+9. Search
+10. End 
+::2
+Enter the data you need to store: 8
+
+Choose:
+1. Insert head
+2. Insert end
+3. Insert at particular position
+4. Delete head
+5. Delete end
+6. Delete from particular position
+7. Display Forward
+8. Display Reverse
+9. Search
+10. End 
+::8
+		8 5
+
+Choose:
+1. Insert head
+2. Insert end
+3. Insert at particular position
+4. Delete head
+5. Delete end
+6. Delete from particular position
+7. Display Forward
+8. Display Reverse
+9. Search
+10. End 
+
